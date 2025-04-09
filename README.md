@@ -2,11 +2,9 @@
 
 ---
 
-<p align="center">
-  🎓 Estudante de Ciência da Computação na <strong>UFCG</strong> <br/>
-</p>
-
 ## 🧑‍💻 Sobre mim
+
+🎓 Estudante de Ciência da Computação na <strong>UFCG</strong> <br/>
 
 Sou apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.  
 Gosto de desafios, de trabalhar em equipe e de transformar ideias em soluções reais.  

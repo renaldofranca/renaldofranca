@@ -35,7 +35,7 @@ Além disso, tenho uma base sólida em algoritmos, estrutura de dados e lógica 
 <p align="center">
   <a href="mailto:renaldofranca3.14@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/renaldofranca/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://renaldofranca.github.io"><img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/renaldo_franca"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
